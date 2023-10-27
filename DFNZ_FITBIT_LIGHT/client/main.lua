@@ -8,7 +8,7 @@ RegisterCommand(Config.Command, function()
     else
         lib.notify({
             title = locale("notify_title"),
-            description = locale("not_fitbit"),
+            description = locale("no_fitbit"),
             type = 'error',
             position = Config.NotifyPosition,
             duration = Config.NotifyDuration * 1000
