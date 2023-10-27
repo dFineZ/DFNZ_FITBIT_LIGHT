@@ -1,0 +1,11 @@
+{
+    "hp": "Gesundheit: ",
+    "hunger": "Hunger: ",
+    "thirst": "Durst: ",
+    "notify_title": "Fitbit",
+    "bit_hungry": "Du solltest bald etwas essen",
+    "extrem_hungry": "Ess lieber schnell etwas!",
+    "bit_thirsty": "Du solltest bald etwas trinken",
+    "extrem_thirsty": "Trink lieber schnell etwas!",
+    "no_fitbit": "Du hast keine Smartwatch"
+}
